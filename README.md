@@ -1,24 +1,19 @@
-💫 About Me:
-🔐 Information Security student focused on Web Application Security, Penetration Testing, and Secure Coding
-💻 Building practical skills in Python, Django, Networking, and offensive security techniques
-🚩 Actively solving CTF challenges and exploring real-world vulnerabilities to understand how systems break
-🌱 Currently learning: Penetration Testing, Linux internals, and Cloud Security
-💬 Ask me about: web app vulnerabilities, Python scripting, Django security, or network fundamentals
-📫 Reach me: chnashmia613@gmail.com
-
-🌐 Socials:
-LinkedIn email
-
-💻 Tech Stack:
-C++ CSS3 HTML5 Java JavaScript Markdown Python Bash Script Azure Cloudflare Netlify Django Express.js Flask Jinja JWT MongoDB MySQL SQLite Canva GitHub Actions Git GitHub Kubernetes
-
-📊 GitHub Stats:
+# 💫 About Me:
+💫 About Me:<br>🔐 Information Security student focused on Web Application Security, Penetration Testing, and Secure Coding<br>💻 Building practical skills in Python, Django, Networking, and offensive security techniques<br>🚩 Actively solving CTF challenges and exploring real-world vulnerabilities to understand how systems break<br>🌱 Currently learning: Penetration Testing, Linux internals, and Cloud Security<br>💬 Ask me about: web app vulnerabilities, Python scripting, Django security, or network fundamentals<br>📫 Reach me: chnashmia613@gmail.com<br>
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nashmia-ch-552307320) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chnashmia613@gmail.com) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ch-nashmia&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ch-nashmia&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ch-nashmia&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ch-nashmia&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-
-
-🏆 GitHub Trophies
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
