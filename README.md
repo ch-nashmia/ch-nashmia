@@ -1,5 +1,5 @@
-# 💫 About Me:
-💫 About Me:<br>🔐 Information Security student focused on Web Application Security, Penetration Testing, and Secure Coding<br>💻 Building practical skills in Python, Django, Networking, and offensive security techniques<br>🚩 Actively solving CTF challenges and exploring real-world vulnerabilities to understand how systems break<br>🌱 Currently learning: Penetration Testing, Linux internals, and Cloud Security<br>💬 Ask me about: web app vulnerabilities, Python scripting, Django security, or network fundamentals<br>📫 Reach me: chnashmia613@gmail.com<br>
+# 💫 About Me
+🔐 Information Security student focused on Web Application Security, Penetration Testing, and Secure Coding<br>💻 Building practical skills in Python, Django, Networking, and offensive security techniques<br>🚩 Actively solving CTF challenges and exploring real-world vulnerabilities to understand how systems break<br>🌱 Currently learning: Penetration Testing, Linux internals, and Cloud Security<br>💬 Ask me about: web app vulnerabilities, Python scripting, Django security, or network fundamentals<br>📫 Reach me: chnashmia613@gmail.com<br>
 
 
 ## 🌐 Socials:
